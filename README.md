@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://asryan.dev">
-    <img src="https://asryan.dev/profile.d.png" width="120" style="border-radius: 50%; border: 2px solid #22d3ee;" alt="Gevorg Asryan"/>
-  </a>
   <h1 align="center">Gevorg Asryan</h1>
   <h3 align="center">Senior AI Systems Architect</h3>
   <p align="center">
