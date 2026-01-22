@@ -57,15 +57,6 @@ I don't just prompt models; I engineer **deterministic reasoning chains** that s
 - 🌱 I’m currently scaling **multi-agent swarms** on serverless infrastructure.
 - ⚡ **Fun fact**: I built a terminal-based portfolio because GUIs are bloatware.
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GevorgAsryan&show_icons=true&theme=gotham&bg_color=0f172a&title_color=22d3ee&text_color=94a3b8&icon_color=22d3ee&hide_border=true" alt="Gevorg's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GevorgAsryan&theme=gotham&background=0f172a&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&hide_border=true" alt="Gevorg's Streak" />
-</div>
-
-<br/>
 
 <div align="center">
   <p align="center">
